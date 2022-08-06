@@ -7,18 +7,13 @@ I'm
 Full Stack Developer intern at Eduraka
 
 
-
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .....
+- 🔭 I’m currently working as a Design engg.
+- 🌱 I’m currently learning HTML laungauge
+- 👯 I’m looking to in Software industry as a Full stack Developer.
+- 🤔 I’m looking for help with leaning new laungauge.
+- 💬 Ask me about Hmm let mi think
+- 📫 How to reach me: Satyajeet8864
+- 😄 Pronouns: SAtyajeet not Satu
+- ⚡ Fun fact: There is no Fun 😄😄😄
 
 -->
