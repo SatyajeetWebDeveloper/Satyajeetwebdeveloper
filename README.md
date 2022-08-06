@@ -9,7 +9,7 @@ Full Stack Developer intern at Eduraka
 
 - 🔭 I’m currently working as a Design engg.
 - 🌱 I’m currently learning HTML laungauge
-- 👯 I’m looking to in Software industry as a Full stack Developer.
+- 👯 I’m looking to in switch to Software industry as a Full stack Developer.
 - 🤔 I’m looking for help with leaning new laungauge.
 - 💬 Ask me about Hmm let mi think
 - 📫 How to reach me: Satyajeet8864
